@@ -132,6 +132,7 @@ venv.bak/
 pip-selfcheck.json
 
 ### VisualStudioCode ###
+**/.vscode/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
